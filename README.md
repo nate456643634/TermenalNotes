@@ -1,6 +1,6 @@
 📄 Description:
 
-    load_notes() is a helper function that loads existing notes from a local JSON file.
+    NoteCLI is a helper function that loads existing notes from a local JSON file.
 
         If the file does not exist or is empty, it returns an empty list.
 
